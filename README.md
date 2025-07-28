@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Georgiana 👋
 
-<!--
-**GeorgiBDev/GeorgiBDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Full-Stack Software Engineer. I create engaging web experiences by blending robust, maintainable code. I’m currently working as a Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 **Skills**
+
+* **Languages:** JavaScript, TypeScript, HTML5, CSS3
+* **Frontend:** React.js, React Query, Next.js, Vue.js, Redux, Babylon.js, Three.js
+* **Backend:** Node.js/Express.js, REST, JWT, Cloud Firestore
+* **Architecture:** Domain-Driven Design, Factory Design Pattern
+* **AI & LLMs:** Integrating and utilizing ChatGPT and Claude for intelligent, scalable solutions
+* **Styling:** SCSS/Sass, Tailwind CSS
+* **Testing:** Cypress, Puppeteer, React Testing Library
+* **Tools & Libraries/Other:** Git, Orval, Vite, Figma, npm/npx/Yarn
+
+---
+
+🚀 **Featured Projects**
+
+* **[design-electronics](https://github.com/GeorgiBDev/design-electronics)** An application crafted for my dissertation project at university, blending web design and electronics into a cohesive tool.
+
+---
+
+📬 **Let’s Connect**
+
+| 🌐 Website  | 💼 LinkedIn                                                                  | ⚫ X                                     | 🐙 GitHub                                    | ✉️ Email                                                          |
+| ----------- | ---------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------- |
+| Coming soon | [in/georgiana-balea](https://www.linkedin.com/in/georgiana-balea-533b34192/) | [@GeoBDev](https://twitter.com/GeoBDev) | [@GeorgiBDev](https://github.com/GeorgiBDev) | **[georgianabaldev@gmail.com](mailto:georgianabaldev@gmail.com)** |
+
+---
+
+*See you!*
