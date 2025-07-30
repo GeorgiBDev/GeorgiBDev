@@ -8,12 +8,12 @@ I’m Full-Stack Software Engineer. I create engaging web experiences by blendin
 
 * **Languages:** JavaScript, TypeScript, HTML5, CSS3
 * **Frontend:** React.js, React Query, Next.js, Vue.js, Redux, Babylon.js, Three.js
-* **Backend:** Node.js/Express.js, REST, JWT, Cloud Firestore
+* **Backend:** Node.js/Express.js, MongoDB, REST, JWT, Cloud Firestore
 * **Architecture:** Domain-Driven Design, Factory Design Pattern
 * **AI & LLMs:** Integrating and utilizing ChatGPT and Claude for intelligent, scalable solutions
-* **Styling:** SCSS/Sass, Tailwind CSS
-* **Testing:** Cypress, Puppeteer, React Testing Library
-* **Tools & Libraries/Other:** Git, Orval, Vite, Figma, npm/npx/Yarn
+* **Styling & Design:** SCSS/Sass, Tailwind CSS, Figma
+* **Testing:** Cypress, Puppeteer, React Testing Library, Jest
+* **Tools & Libraries/Other:** Git, Orval, Vite, npm/npx/Yarn
 
 ---
 
